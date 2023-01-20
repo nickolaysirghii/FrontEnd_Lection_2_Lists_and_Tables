@@ -1,1 +1,1 @@
-# Lection_2_FrontEnd_Lists_and_Tables
+# frontEnd_Lection_2_Lists_and_Tables
